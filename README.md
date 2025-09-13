@@ -22,7 +22,7 @@ Hands-on Experience
 
 Investigated brute-force login attempts using LetsDefend Log Management, EDR (LetsDefend SOC Fundamentals)
 Performed network scanning with wireshark in IBM labs (Coursera)
-Hack first website in a safe environment and experience an ethical hacker's job (tryhackme Offensive intro)
+Testing website in a safe environment and experience an ethical hacker's job (tryhackme Offensive intro)
 
 Connect With Me
 
